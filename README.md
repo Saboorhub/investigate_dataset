@@ -1,3 +1,6 @@
 # investigate_dataset
 
 This is the project that I did while taking Udacity's Data Analytics Nanodegree program. I would like to share it with the anyone interested. I am going to redo this project and share the python code in a different project. The format of this project right now is html so you will not be able to copy the code that easily.
+
+More details about this project: 
+In this project, I investigated the titanic shipwreck dataset. I have covered the various stages of the Data Analytics process including the Posing Questions, Data Wrangling, Data Exploration, Communication and Conclusion stages. The focus of my analysis was the overall rate and the survival rate between genders, ticket classes and types of travelers as to whether they travled in family groups or by themselves. In terms of gender, women had a better survival rate than men. In terms of age group, I was able to find out that children were better survivors than adults. Children were defined as individuals whose ages were less than 18 years. In regards to types of travelers, people traveling alone were less likely to survive than people traveling as part of families. And last but not least, higher ticket class passengers survived better than the lower ticket class passengers.
